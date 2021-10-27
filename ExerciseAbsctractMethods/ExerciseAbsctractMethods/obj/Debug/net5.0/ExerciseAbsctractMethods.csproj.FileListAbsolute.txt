@@ -1,0 +1,16 @@
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\bin\Debug\net5.0\ExerciseAbsctractMethods.exe
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\bin\Debug\net5.0\ExerciseAbsctractMethods.deps.json
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\bin\Debug\net5.0\ExerciseAbsctractMethods.runtimeconfig.json
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\bin\Debug\net5.0\ExerciseAbsctractMethods.runtimeconfig.dev.json
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\bin\Debug\net5.0\ExerciseAbsctractMethods.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\bin\Debug\net5.0\ref\ExerciseAbsctractMethods.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\bin\Debug\net5.0\ExerciseAbsctractMethods.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\obj\Debug\net5.0\ExerciseAbsctractMethods.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\obj\Debug\net5.0\ExerciseAbsctractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\obj\Debug\net5.0\ExerciseAbsctractMethods.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\obj\Debug\net5.0\ExerciseAbsctractMethods.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\obj\Debug\net5.0\ExerciseAbsctractMethods.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\obj\Debug\net5.0\ExerciseAbsctractMethods.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\obj\Debug\net5.0\ref\ExerciseAbsctractMethods.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\obj\Debug\net5.0\ExerciseAbsctractMethods.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExerciseAbstractMethods\ExerciseAbsctractMethods\ExerciseAbsctractMethods\obj\Debug\net5.0\ExerciseAbsctractMethods.genruntimeconfig.cache

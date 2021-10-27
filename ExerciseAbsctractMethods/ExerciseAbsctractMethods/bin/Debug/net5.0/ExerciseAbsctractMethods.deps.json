@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExerciseAbsctractMethods/1.0.0": {
+        "runtime": {
+          "ExerciseAbsctractMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciseAbsctractMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
